@@ -26,8 +26,7 @@ This output demonstrates the model's ability to localize data, generating employ
 ### 💵 Test Case: Global Logistics (USD)
 Testing global instruction following, the model generates technical technical inventory with international pricing in Dollars.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d3f8d1b0-625f-4754-9a7e-bddd1a103669
-" width="90%" />
+  <img src="https://github.com/user-attachments/assets/d3f8d1b0-625f-4754-9a7e-bddd1a103669" width="90%" />
   <p><i>Technical Inventory Generation with Dollar-based Pricing.</i></p>
 </div>
 
